@@ -1,4 +1,4 @@
-# 🚀 Happy OTP Panel
+# 🚀 Krish OTP Panel
 
 Complete Virtual OTP Number Panel for WhatsApp and Telegram Verification with API Access.
 
